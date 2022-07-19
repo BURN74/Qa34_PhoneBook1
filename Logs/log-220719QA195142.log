@@ -1,0 +1,7 @@
+19:51:44.994  INFO  manager.ApplicationManager - All tests run in chrome browser
+19:51:45.757  INFO  manager.ApplicationManager - Current Url ---> https://contacts-app.tobbymarshall815.vercel.app/home
+19:51:45.792  INFO  tests.TestBase - Start method with name -->addNewContactSuccess
+19:51:51.102  INFO  tests.TestBase - user
+19:51:51.115  INFO  tests.TestBase - Contact is  -->Contact(name=Dolly1636, lastname=Wok, phone=1231231636, email=wook@mail.com, address=TelAviv, description=The best friend)
+19:51:52.750  INFO  tests.TestBase - Check name - Dolly1636
+19:51:52.797  INFO  tests.TestBase - Check phone -1231231636
